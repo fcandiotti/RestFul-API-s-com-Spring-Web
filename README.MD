@@ -7,8 +7,16 @@
 - LOMBOK Project
 - Utilizar o Spring Boot dev tools
 
-### Em Implementação:
+### Implementado:
 
 - Utilizar a especificação Bean Validation
 - Criar Annotation e validador customizado
 - Configurar e trabalhar Internacionalização
+
+### Em desenvolvimento:
+
+- Adicionar segurança na API
+- Spring Security
+- Autenticação dentro do contexto do security
+- Autenticação Basic
+- Tokens JWT em conjunto com o Security
