@@ -1,4 +1,4 @@
-#RestFul API's com Spring Web
+# RestFul API's com Spring Web
 
 - Mapear recursos e subrecursos REST utilizando os preceitos RESTFul
 - Tratar Erros de forma simples
@@ -7,7 +7,7 @@
 - LOMBOK Project
 - Utilizar o Spring Boot dev tools
 
-###Em Implementação:
+### Em Implementação:
 
 - Utilizar a especificação Bean Validation
 - Criar Annotation e validador customizado
